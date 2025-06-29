@@ -1,5 +1,6 @@
-PENS-Thesis-Template based on CUED PhD thesis template
-======================================================
+PENS-Thesis-Template 
+=================================
+Based on CUED PhD thesis template
 
 Berikut contoh project template latex untuk buku Thesis S2, beberapa fitur yg sudah ada:
 -	Cover
